@@ -1,6 +1,6 @@
 # variance-bandits-experiments
 
-This repository contains simple simulations of the multi-armed bandit problem using UCB algorithms:
+This repository contains simple simulations of the multi-armed bandit problem using algorithms:
 - **Known variance UCB**
 - **Unknown variance UCB**
 
