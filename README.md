@@ -4,6 +4,8 @@ This repository contains simple simulations of the multi-armed bandit problem us
 - **Known variance UCB**
 - **Unknown variance UCB**
 
+## Current version: experiment3.py
+
 ## What's Included
 - Randomly generated means and variances
 - Regret plots comparing known and unknown variance settings
@@ -12,7 +14,7 @@ This repository contains simple simulations of the multi-armed bandit problem us
 Change the constants at the top of the notebook:
 
 ```python
-T = 100000          # Total number of rounds
+T = 1000000         # Total number of rounds
 K = 5               # Number of arms
 mean_min = 0        # Minimum arm mean
 mean_max = 1        # Maximum arm mean
