@@ -3,7 +3,7 @@
 This repository contains simple simulations of the multi-armed bandit problem using algorithms:
 - **VarUCB-Known**
 - **VarUCB-Unknown**
-- **UCB1**
+- **UCB**
 
 ## Current version: experiment3.py
 
