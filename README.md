@@ -1,8 +1,9 @@
 # variance-bandits-experiments
 
 This repository contains simple simulations of the multi-armed bandit problem using algorithms:
-- **Known variance UCB**
-- **Unknown variance UCB**
+- **VarUCB-Known**
+- **VarUCB-Unknown**
+- **UCB1**
 
 ## Current version: experiment3.py
 
